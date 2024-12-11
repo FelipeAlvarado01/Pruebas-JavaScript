@@ -1,0 +1,15 @@
+.menu {
+  font-size: 16px;
+}
+
+.main-menu {
+  color: green;
+}
+
+.visible {
+  display: block;
+}
+
+.invisible {
+  display: none;
+}
